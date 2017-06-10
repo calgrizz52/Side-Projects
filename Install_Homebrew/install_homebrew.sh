@@ -5,3 +5,8 @@ git clone https://github.com/Homebrew/homebrew.git
 echo 'alias brew="/Volumes/Storage/goinfre/$(whoami)/homebrew/bin/brew"' >> ~/.zshrc
 source ~/.zshrc
 brew update
+
+
+
+##FUXK THAT USE THIS
+## curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
