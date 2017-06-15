@@ -1,5 +1,6 @@
 # Side_Projects
 
-## Why arn't you just focusing on the 42 Cirriculum?
+This script is to install homebrew on a specific folder at my school at 42.
 
-Because I want to do what I want to do :)
+If you want to change the git repo to install a different verison or even another application,
+ that works as well.
