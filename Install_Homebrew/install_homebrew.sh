@@ -9,4 +9,4 @@ brew update
 
 
 ##FUXK THAT USE THIS
-## curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
+## curl -fsSL https://cdn.jsdelivr.net/gh/kube/42homebrew@master/install.sh | zsh
